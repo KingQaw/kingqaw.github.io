@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kingqaw.github.io/sitemap.xml
