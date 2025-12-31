@@ -17,13 +17,14 @@ title = "全麦面包"
 [params.author]
   name = "全麦面包"
   email = "3389673506@qq.com"
-#   image = "img/blowfish_logo.png"
+  image = "img/avatar.jpg"
 #   imageQuality = 96
 #   headline = "I'm only human"
 #   bio = "A little bit about you"
   links = [
-    { email = "mailto:hello@your_domain.com" },
-    { github = "https://github.com/username" },
+    { email = "mailto:3389673506@qq.com" },
+    { github = "https://github.com/KingQaw/" },
+    { leetcode = "https://leetcode.cn/u/keen-swirlesbqh/" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
